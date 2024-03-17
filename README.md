@@ -1,7 +1,7 @@
 # Email_spam_classifier
 This project mainly classify that any Email is Spam or Simple 
 The whole project is created on VSCode(visual studio code)
-In this i've used Jupyter notebook ans CSV files
+In this i've used Jupyter notebook and CSV files
 The whole project is in Python programming language 
 
 DOWNLOADING OF CSV FILES
