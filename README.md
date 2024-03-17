@@ -19,10 +19,15 @@ WORKING ON JUPYTER NOTEBOOK FOR DETECTION OF MAILS
 Make a file using jupyter notebook using python language like:- sms_detection.ipynb
 This files mainly works on 6 factors
 1- Data cleaning
+
 2- EDA(Exploratory data analysis)
+
 3- Text Processing
+
 4- Model Building
+
 5- Evaluation
+
 6- Improvement
 
 WOKING ON PYTHON FILES FOR WEBSITE DIPLAYING
